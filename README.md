@@ -38,7 +38,7 @@ Os projetos exploram fundamentos sólidos da análise de dados, machine learning
 Gerente de Operações Técnicas com foco em Ciência de Dados aplicada ao setor de energia renovável.  
 Conecto análise estratégica e modelagem preditiva para gerar insights reais em ambientes operacionais.
 
-📎 [LinkedIn](www.linkedin.com/in/paulovfernandes) | [GitHub](https://github.com/PauloV-Fernandes)
+📎 [LinkedIn](https://www.linkedin.com/in/paulovfernandes) | [GitHub](https://github.com/PauloV-Fernandes)
 
 ---
 
