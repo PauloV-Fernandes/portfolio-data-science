@@ -1,52 +1,49 @@
-# Credt-score
-# Modelo Preditivo para Risco de Inadimplência em Cartões de Crédito
+# Portfólio de Projetos em Ciência de Dados 🧠📊
 
-## Descrição
-Este projeto tem como objetivo construir um modelo preditivo para identificar o risco de inadimplência de solicitantes de cartão de crédito. O modelo será capaz de prever o risco de um solicitante não pagar o cartão, usando dados históricos de características pessoais e financeiras.
+Este repositório reúne projetos desenvolvidos durante minha formação em Ciência de Dados pela EBAC (Escola Britânica de Artes Criativas e Tecnologia). Todos os notebooks passaram por revisão de professores especializados, garantindo a consistência e aplicabilidade dos conceitos.
 
-## Objetivo
-O objetivo é criar um modelo preditivo que ajude os mutuários a tomar decisões mais informadas ao solicitar um cartão de crédito, analisando variáveis que indicam o risco de inadimplência.
+Os projetos exploram fundamentos sólidos da análise de dados, machine learning, e visualização, com foco em aplicações práticas usando Python.
 
-## Dicionário de Dados
-| Variável               | Descrição                                       | Tipo     |
-|------------------------|-------------------------------------------------|----------|
-| sexo                   | Gênero do solicitante                           | M/F      |
-| posse_de_veiculo        | Se o solicitante possui veículo                | Y/N      |
-| posse_de_imovel         | Se o solicitante possui imóvel                 | Y/N      |
-| qtd_filhos             | Quantidade de filhos                           | Inteiro  |
-| tipo_renda             | Tipo de renda (ex: assalariado, autônomo)       | Texto    |
-| idade                  | Idade do solicitante                            | Inteiro  |
-| estado_civil           | Estado civil do solicitante                     | Texto    |
-| ...                    | ...                                             | ...      |
+---
 
-## Instalação
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/usuario/projeto.git
+## 🔍 Projetos incluídos
 
-## Execução do código
-python main.py
+| Nome do Notebook | Tema Principal | Técnicas Aplicadas |
+|------------------|----------------|---------------------|
+| Análise de Nascimentos por Mês - Gerar Gráficos e Pastas | Saúde Pública | Agrupamento, visualização |
+| Análise de Regressão e Ajuste de Modelos em Gorjetas | Regressão Linear | Modelagem preditiva |
+| Análise de Volatilidade Diária de Ativos | Finanças | Séries temporais, variância |
+| Análise e Modelagem de Atividades Humanas com Árvores de Decisão | Classificação | Árvores de decisão |
+| Análise Preditiva de Renda | Demografia | Regressão, tratamento de dados |
+| Árvore de Decisão com CCP_alpha | Machine Learning | Poda de árvore, tuning |
+| Projeto 01 - Classificação de Crédito | Finanças Pessoais | Classificação supervisionada |
+| Endividamento | Economia Doméstica | Análise exploratória |
+| Profissão Cientista de Dados - Assignment 02 | Avaliação Técnica | Pipeline completo |
+| Mod03Ex01 - Python Básico | Fundamentos | Estruturas, funções |
+| Mod13_Tarefa01 | Modelagem | Pré-processamento, validação |
 
-## Estrutura dos arquivos 
-├── data/
-│   ├── demo01.csv        # Dados de entrada
-├── src/
-│   ├── main.py           # Código principal
-├── README.md             # Este arquivo
-├── requirements.txt      # Dependências
+---
 
-## Modelo
-Usamos a técnica de Random Forest, um classificador versátil e robusto para prever a inadimplência com base em características dos solicitantes.
+## 🛠️ Ferramentas Utilizadas
 
-## Resultados
-O modelo apresentou uma taxa de inadimplência de 7,25%. As métricas de avaliação incluem:
+- **Linguagem:** Python
+- **Bibliotecas:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Ambiente:** Jupyter Notebook
 
-Acurácia: 92%
-Precisão: 80%
-Recall: 75%
+---
 
-## Conclusões
+## 📌 Sobre o Autor
 
-O modelo consegue identificar efetivamente os solicitantes de alto risco. Há espaço para melhorias com a inclusão de mais variáveis financeiras.
+👨‍💻 **Paulo Victor Fernandes**  
+Gerente de Operações Técnicas com foco em Ciência de Dados aplicada ao setor de energia renovável.  
+Conecto análise estratégica e modelagem preditiva para gerar insights reais em ambientes operacionais.
 
+📎 [LinkedIn](https://www.linkedin.com/in/paulo-victor-fernandes) | [GitHub](https://github.com/PauloV-Fernandes)
 
+---
+
+## 📈 Próximos passos
+
+Este repositório está em expansão. Nos próximos ciclos, incluirei projetos aplicados ao setor de **energia fotovoltaica**, utilizando dados climáticos e operacionais para estimativas de geração, desempenho e previsão de demanda.
+
+Sinta-se à vontade para acompanhar e contribuir!
